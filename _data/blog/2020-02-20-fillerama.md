@@ -1,15 +1,15 @@
 ---
 template: BlogPost
 path: /fillerama
-date: 2020-02-20T14:59:36.571Z
-title: Dummy Content from Fillerama
+date: 2020-02-21T09:50:36.571Z
+title: 以白色為主體新一代 PS5 主機外觀曝光 同步公開相關周邊
 thumbnail: /assets/image-5.jpg
 ---
-# No, I'll fix it. I'm good at fixing rot. Call me the Rotmeister. No, I'm the Doctor. Don't call me the Rotmeister.
+# Play Station 5 is coming soon
 
-I am the Doctor, and you are the Daleks! You hit me with a cricket bat. You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better? You hit me with a cricket bat.
+繼「PlayStation 5（PS5）」控制器後，新主機樣貌與各項周邊今日正式曝光，以白色為主體。
 
-You've swallowed a planet! No… It's a thing; it's like a plan, but with more greatness. You hate me; you want to kill me! Well, go on! **Kill me!** *KILL ME!* Sorry, checking all the water in this area; there's an escaped fish.
+隨著新一代主機 PS5 硬體規則、控制器等消息陸續揭曉後，官方今日正式在 PS5 首場線上發表會揭露其主機樣貌，更同步公開數位遊戲版主機以及耳機、充電座、HD 鏡頭等周邊樣貌。
 
 ## Did I mention we have comfy chairs?
 
